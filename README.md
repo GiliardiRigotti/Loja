@@ -1,6 +1,6 @@
-# Loja
+# API - Loja
 
-Loja de roupa online.
+API para loja de roupa online.
 
 # 🎓 Conceitos abordados até o momento:
 - Design Patterns
